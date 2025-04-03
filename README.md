@@ -1,23 +1,30 @@
-# 👋 Hi, I'm Amit
+# 👋 Hi, I'm Amit  
+🎓 *First-year M.Sc student at WIS*  
 
-![Banner](https://source.unsplash.com/1600x400/?tech,nature)
-
-🎓 First year M.Sc student at WIS
-
----
-
-
-## 🛠️🧠 Projects
-
-### 📊 Seizure Feature Analysis (MATLAB)
-Analyzing breathing data from epilepsy patients and controls, generating features and classifiers using MATLAB.
-
-### 🧬 Spatial Transcriptomics (Python)
-Visium analysis of PDAC patients with Scanpy.
-
+![Header](https://source.unsplash.com/1600x400/?science,tech)  
 
 ---
 
-## 📫 Contact Me
-- Email: amit.paz@weizmann.ac.il 
+## 🛠️ My Projects  
+
+### 📊 Seizure Feature Analysis (MATLAB)  
+🔬 Analyzing breathing data from epilepsy patients and controls.  
+📈 Generating **features & classifiers** using MATLAB.  
+
+### 🧬 Spatial Transcriptomics (Python)  
+🧠 **Visium analysis of PDAC patients** with Scanpy.  
+
 ---
+
+## 🎓 My Assignments  
+📚 *All Python course assignments will be stored here:*  
+🔗 [**Python Course Repository**](https://github.com/amit-paz7/python-course-assignments)  
+
+---
+
+## 📫 Contact Me  
+📧 Email: amit.paz@weizmann.ac.il  
+
+---
+
+*🚀 This site is powered by GitHub Pages!*
