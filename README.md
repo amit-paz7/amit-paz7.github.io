@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Amit  
 🎓 *First-year M.Sc student at WIS*  
 
-<img src="https://source.unsplash.com/1600x400/?science,tech" width="100%">
-
 ---
 
 ## 🛠️ My Projects  
