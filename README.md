@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Amit
 
+![Banner](https://source.unsplash.com/1600x400/?tech,nature)
+
 🎓 First year M.Sc student at WIS
 
 ---
