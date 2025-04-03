@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Amit  
 🎓 *First-year M.Sc student at WIS*  
 
-![Header](https://source.unsplash.com/1600x400/?science,tech)  
+<img src="https://source.unsplash.com/1600x400/?science,tech" width="100%">
 
 ---
 
