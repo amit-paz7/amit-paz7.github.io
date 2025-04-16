@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Amit  
-🎓 *First-year M.Sc student at WIS*  
+🎓 *First-year M.Sc student at WIS, currently on rotations*  
 
 ---
 
