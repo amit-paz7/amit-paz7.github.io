@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Amit  
+# Amit Paz's website
 🎓 *First-year M.Sc student at WIS, currently on rotations*  
 
 ---
